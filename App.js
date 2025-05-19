@@ -25,10 +25,10 @@ export default function App() {
       >
           <View style={styles.card}>
             <Image 
-              source={{uri:'https://i.ytimg.com/vi/3h65dBk-f0s/maxresdefault.jpg'}}
+              source={{uri:'https://pbs.twimg.com/profile_images/1872747345017778176/w2qU4ihm_400x400.jpg'}}
               style={styles.profileImage}
             />
-            <Text style={styles.nombre}>Marasi El Carnicero del Codigo</Text>
+            <Text style={styles.nombre}>Maestro Splinter</Text>
             <Text style={styles.titulo}>Desarrollador Frontend</Text>
             <TextInput
               style={styles.input}
